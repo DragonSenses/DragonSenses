@@ -23,7 +23,7 @@
   <h2><strong> Tech Stack </strong><img src="./assets/border-separator.gif"/></h2>
   <br>
   
-  <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=DragonSenses" alt="Most used languages">
+  <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=DragonSenses&theme=radical&langs_count=10" alt="Most used languages">
   <br>
 
   <h3><strong> Languages, Frameworks, and Tools </strong><img src="./assets/border-separator.gif"/></h3>
