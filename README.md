@@ -28,5 +28,5 @@
 
   <h3><strong> Languages, Frameworks, and Tools </strong><img src="./assets/border-separator.gif"/></h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,java,powershell,postgres" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,angular,nextjs,redux,java,kotlin,c,cpp,rust,py,arduino,autocad,matlab,aws,azure,cloudflare,powershell,docker,firebase,postgres,mongodb,mysql,sqlite,postman,netlify,vercel,figma,latex,md,materialui" alt="skills logos" />
 </div>
