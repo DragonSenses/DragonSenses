@@ -17,8 +17,11 @@
 
 -   📜 Favorite Book: <a src="https://algorithmstoliveby.com/">Algorithms to Live By</a> by Brian Christian and Tom Griffiths <br> > *An exploration on how computer science principles can improve daily decision-making.*
 
-<h2><strong> Tech Stack </strong><img src="./assets/border-separator.gif"/></h2>
-<br>
-
 <h2></h2>
-<h3><strong> Languages, Frameworks, and Tools </strong><img src="./assets/border-separator.gif"/></h3>
+
+<div align="center">
+    <h2><strong> Tech Stack </strong><img src="./assets/border-separator.gif"/></h2>
+    <h3><strong> Languages, Frameworks, and Tools </strong><img src="./assets/border-separator.gif"/></h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,java,powershell,postgres" alt="skills logos" />
+</div>
