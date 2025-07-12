@@ -1,16 +1,14 @@
-### Hi there 👋
+-   👋 I'm Kendrick (DragonSenses), a Software Developer with a background in computer engineering. <br>
 
-<!--
-**DragonSenses/DragonSenses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🌱 I’m currently learning AI and ML concepts, especially those applicable to automation, recommendation systems. <br>
 
-Here are some ideas to get you started:
+-   🐾 I’m looking to network and make friends here! <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🎯 Goals: Learn AI, Machine Learning, and Cybersecurity; and Contribute to Open Source Projects. <br>
+
+-   🍵 Interests: Fitness, Science, Math, RPGs, and Coding. <br>
+
+- 📖 Hobbies: Exercise, Reading, Writing, and Building Computers  
+  > Occasionally enjoy anime, manga, or light novels—and engineering complex production lines in *Factorio*.
+
+-   📜 Favorite Book: <a src="https://algorithmstoliveby.com/">Algorithms to Live By</a> by Brian Christian and Tom Griffiths <br> > *An exploration on how computer science principles can improve daily decision-making.*
