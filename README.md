@@ -20,8 +20,13 @@
 <h2></h2>
 
 <div align="center">
-    <h2><strong> Tech Stack </strong><img src="./assets/border-separator.gif"/></h2>
-    <h3><strong> Languages, Frameworks, and Tools </strong><img src="./assets/border-separator.gif"/></h3>
+  <h2><strong> Tech Stack </strong><img src="./assets/border-separator.gif"/></h2>
+  <br>
+  
+  <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=DragonSenses" alt="Most used languages">
+  <br>
+
+  <h3><strong> Languages, Frameworks, and Tools </strong><img src="./assets/border-separator.gif"/></h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,java,powershell,postgres" alt="skills logos" />
 </div>
