@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&lines=Hey%2C+I'm+Kendrick!"/>
+</div>
+
 <img src="./assets/border-separator.gif" width="100%"/>
 
 <h2 align="center"> Curious Learner, Relentless Problem-Solver</h2><br>
