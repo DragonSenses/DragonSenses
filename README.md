@@ -1,8 +1,14 @@
+<!-- Animated Typing Intro -->
+
 <div align="center">
+  <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DF9FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kendrick+and+Welcome+to+my+Profile!" alt="Hey, I'm Kendrick and Welcome to my Profile! animated typed out" width="80%" align="middle" />
+  <img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
 </div>
 
 <img src="./assets/border-separator.gif" width="100%"/>
+
+<!-- Personal Introduction -->
 
 <h2 align="center"> Curious Learner <img src="./assets/animated-purple-flame.gif" width="14px"/> Relentless Problem-Solver<img src="./assets/animated-purple-flame.gif" width="14px"/></h2><br>
 
@@ -23,8 +29,13 @@
 
 <h2></h2>
 
+<!-- Tech Stack - Skills, Languages, Frameworks, and Tools -->
+
 <div align="center">
-  <h2><strong> Tech Stack </strong><img src="./assets/border-separator.gif"/></h2>
+  <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
+  <img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
+
+  <h2><strong> ⚙️ Technologies and Skills </strong><img src="./assets/border-separator.gif"/></h2>
   <br>
   
   <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=DragonSenses&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
