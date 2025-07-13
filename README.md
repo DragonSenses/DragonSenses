@@ -63,3 +63,13 @@
 </div> <br>
 
 <h2></h2>
+
+<!-- Projects -->
+
+<img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
+<img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 align="center"> 🛠️ Projects <img src="./assets/border-separator.gif"/></h2><br>
+
+</div>
