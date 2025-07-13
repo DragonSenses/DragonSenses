@@ -1,5 +1,7 @@
 <!-- Animated Typing Intro -->
 
+<img src="./assets/border-separator.gif" width="100%"/>
+
 <div align="center">
   <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DF9FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kendrick+and+Welcome+to+my+Profile!" alt="Hey, I'm Kendrick and Welcome to my Profile! animated typed out" width="80%" align="middle" />
