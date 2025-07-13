@@ -4,7 +4,7 @@
 
 <img src="./assets/border-separator.gif" width="100%"/>
 
-<h2 align="center"> Curious Learner, Relentless Problem-Solver</h2><br>
+<h2 align="center"> Curious Learner <img src="./assets/animated-purple-flame.gif" width="14px"/> Relentless Problem-Solver<img src="./assets/animated-purple-flame.gif" width="14px"/></h2><br>
 
 -   👋 I'm Kendrick (DragonSenses), a Software Developer with a background in computer engineering. <br>
 
