@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=5000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kendrick+and+Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=7DF9FF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Kendrick+and+Welcome+to+my+Profile!" alt="Hey, I'm Kendrick and Welcome to my Profile! animated typed out" width="80%" align="middle" />
 </div>
 
 <img src="./assets/border-separator.gif" width="100%"/>
@@ -16,7 +16,7 @@
 
 -   🍵 Interests: Fitness, Science, Math, RPGs, and Coding. <br>
 
-- 📖 Hobbies: Exercise, Reading, Writing, and Building Computers  
+- 📖 Hobbies: Exercise, Cooking, Reading, Writing, and Building Computers 
   > Occasionally enjoy anime, manga, or light novels—and engineering complex production lines in *Factorio*.
 
 -   📜 Favorite Book: <a src="https://algorithmstoliveby.com/">Algorithms to Live By</a> by Brian Christian and Tom Griffiths <br> > *An exploration on how computer science principles can improve daily decision-making.*
