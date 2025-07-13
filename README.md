@@ -12,6 +12,8 @@
 
 <!-- Personal Introduction -->
 
+<img align="right" src="./assets/pixel-city-night.gif" height="450px" alt="pixel city night image">
+
 <h2 align="center"> Curious Learner <img src="./assets/animated-purple-flame.gif" width="14px"/> Relentless Problem-Solver<img src="./assets/animated-purple-flame.gif" width="14px"/></h2><br>
 
 -   👋 I'm Kendrick (DragonSenses), a Software Developer with a background in computer engineering. <br>
