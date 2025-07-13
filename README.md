@@ -1,4 +1,5 @@
 <!-- Animated Typing Intro -->
+<!-- https://github.com/denvercoder1/readme-typing-svg -->
 
 <img src="./assets/border-separator.gif" width="100%"/>
 
@@ -34,6 +35,8 @@
 <h2></h2>
 
 <!-- Tech Stack - Skills, Languages, Frameworks, and Tools -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/tandpfun/skill-icons -->
 
 <div align="center">
   <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
@@ -53,6 +56,7 @@
 <h2></h2>
 
 <!-- GitHub Statistics -->
+<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
 <img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
