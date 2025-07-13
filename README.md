@@ -49,3 +49,17 @@
 
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,nodejs,webpack,vite,html,css,sass,tailwind,js,ts,react,angular,nextjs,redux,java,kotlin,c,cpp,rust,py,arduino,autocad,matlab,aws,azure,cloudflare,powershell,docker,firebase,postgres,mongodb,mysql,sqlite,postman,netlify,vercel,figma,latex,md,materialui" alt="skills logos" />
 </div>
+
+<h2></h2>
+
+<!-- GitHub Statistics -->
+
+<img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
+<img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2> 📊 My Github Stats <img src="./assets/border-separator.gif"/></h2><br>
+  <img src="https://streak-stats.demolab.com?user=DragonSenses&theme=radical" width="49%" alt="streaks graph" align="middle" />
+</div> <br>
+
+<h2></h2>
