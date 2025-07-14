@@ -69,11 +69,21 @@
 <h2></h2>
 
 <!-- Projects -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
 <img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center"> 🛠️ Projects <img src="./assets/border-separator.gif"/></h2><br>
+
+  <!-- Project List -->
+  
+  <a href="https://github.com/DragonSenses/job-tracker" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=job-tracker" width="49%" alt="Job Tracker"/>
+  </a>
+  <a href="https://github.com/DragonSenses/complete-ecommerce-store" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=complete-ecommerce-store" width="49%" alt="Complete Ecommerce Store"/>
+  </a>
 
 </div>
