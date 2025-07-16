@@ -17,20 +17,21 @@
 
 <h2 align="center"> Curious Learner <img src="./assets/animated-purple-flame.gif" width="14px"/> Relentless Problem-Solver<img src="./assets/animated-purple-flame.gif" width="14px"/></h2><br>
 
--   👋 I'm Kendrick (DragonSenses), a Software Developer with a background in computer engineering. <br>
+- 👋 I'm Kendrick (DragonSenses), a Software Developer with a background in computer engineering. <br>
 
--   🌱 I’m currently learning AI and ML concepts, especially those applicable to automation, recommendation systems. <br>
+- 🌱 I’m currently learning AI and ML concepts, especially those applicable to automation, recommendation systems. <br>
 
--   🐾 I’m looking to network and make friends here! <br>
+- 🐾 I’m looking to network and make friends here! <br>
 
--   🎯 Goals: Learn AI, Machine Learning, and Cybersecurity; and Contribute to Open Source Projects. <br>
+- 🎯 Goals: Learn AI, Machine Learning, and Cybersecurity; and Contribute to Open Source Projects. <br>
 
--   🍵 Interests: Fitness, Science, Math, RPGs, and Coding. <br>
+- 🍵 Interests: Fitness, Science, Math, RPGs, and Coding. <br>
 
-- 📖 Hobbies: Exercise, Cooking, Reading, Writing, and Building Computers 
-  > Occasionally enjoy anime, manga, or light novels—and engineering complex production lines in *Factorio*.
+- 📖 Hobbies: Exercise, Cooking, Reading, Writing, and Building Computers
 
--   📜 Favorite Book: <a src="https://algorithmstoliveby.com/">Algorithms to Live By</a> by Brian Christian and Tom Griffiths <br> > *An exploration on how computer science principles can improve daily decision-making.*
+  > Occasionally enjoy anime, manga, or light novels—and engineering complex production lines in _Factorio_.
+
+- 📜 Favorite Book: <a src="https://algorithmstoliveby.com/">Algorithms to Live By</a> by Brian Christian and Tom Griffiths <br> > _An exploration on how computer science principles can improve daily decision-making._
 
 <h2></h2>
 
@@ -78,7 +79,7 @@
   <h2 align="center"> 🛠️ Projects <img src="./assets/border-separator.gif"/></h2><br>
 
   <!-- Project List -->
-  
+
   <a href="https://github.com/DragonSenses/job-tracker" target="_blank">
     <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=job-tracker" width="49%" alt="Job Tracker"/>
   </a>
