@@ -86,5 +86,11 @@
   <a href="https://github.com/DragonSenses/complete-ecommerce-store" target="_blank">
     <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=complete-ecommerce-store" width="49%" alt="Complete Ecommerce Store"/>
   </a>
+  <a href="https://github.com/DragonSenses/DragonSenses" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=DragonSenses" width="49%" alt="DragonSenses"/>
+  </a>
+  <a href="https://github.com/DragonSenses/visionize" target="_blank">
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=visionize" width="49%" alt="Visionize"/>
+  </a>
 
 </div>
