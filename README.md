@@ -81,15 +81,15 @@
   <!-- Project List -->
 
   <a href="https://github.com/DragonSenses/job-tracker" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=job-tracker&cache_seconds=3600" width="49%" alt="Job Tracker"/>
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=job-tracker&cache_seconds=86400" width="49%" alt="Job Tracker"/>
   </a>
   <a href="https://github.com/DragonSenses/complete-ecommerce-store" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=complete-ecommerce-store&cache_seconds=3600" width="49%" alt="Complete Ecommerce Store"/>
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=complete-ecommerce-store&cache_seconds=86400" width="49%" alt="Complete Ecommerce Store"/>
   </a>
   <a href="https://github.com/DragonSenses/flashcards-api" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=flashcards-api&cache_seconds=3600" width="49%" alt="flashcards-api"/>
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=flashcards-api&cache_seconds=86400" width="49%" alt="flashcards-api"/>
   </a>
   <a href="https://github.com/DragonSenses/visionize" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=visionize&cache_seconds=3600" width="49%" alt="Visionize"/>
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=DragonSenses&theme=radical&repo=visionize&cache_seconds=86400" width="49%" alt="Visionize"/>
   </a>
 </div>
