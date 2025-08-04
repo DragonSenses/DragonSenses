@@ -57,7 +57,10 @@
 <h2></h2>
 
 <!-- GitHub Statistics -->
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
 <img src="./assets/animated-purple-flame.gif" width="16px" align="right"/>
