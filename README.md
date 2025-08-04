@@ -59,6 +59,7 @@
 <!-- GitHub Statistics -->
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 <img src="./assets/animated-purple-flame.gif" width="16px" align="left"/>
@@ -67,7 +68,14 @@
 <div align="center">
   <h2> 📊 My Github Stats <img src="./assets/border-separator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=DragonSenses&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=DragonSenses&theme=radical" width="49%" alt="streaks graph" align="middle" />
+
+  <div style="display:flex; justify-content:center; gap:1%;">
+    <img src="https://streak-stats.demolab.com?user=DragonSenses&theme=radical" width="49%" alt="streaks graph" />
+    <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=DragonSenses&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  </div>
+  
+  <br>
+
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonSenses&custom_title=DragonSenses's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="DragonSenses's Github Activity Graph" width="100%">
   </div>
