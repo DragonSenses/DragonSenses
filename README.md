@@ -67,7 +67,7 @@
 
 <div align="center">
   <h2> 📊 My Github Stats <img src="./assets/border-separator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=DragonSenses&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=DragonSenses&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
 
   <table>
     <tr>
