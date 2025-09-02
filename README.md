@@ -19,11 +19,11 @@
 
 - 👋 I'm Kendrick (DragonSenses), a Software Developer with a background in computer engineering. <br>
 
-- 🌱 I’m currently learning AI and ML concepts, especially those applicable to automation, recommendation systems. <br>
+- 🌱 I’m currently studying for the CompTIA A+ certification, with a focus on hardware, networking, and IT fundamentals. <br>
 
-- 🐾 I’m looking to network and make friends here! <br>
+- 🐾 I’m here to connect, collaborate, and build meaningful friendships! <br>
 
-- 🎯 Goals: Learn AI, Machine Learning, and Cybersecurity; and Contribute to Open Source Projects. <br>
+- 🎯 Goals: Deepen my understanding of IT infrastructure, cybersecurity, and contribute to open source projects.. <br>
 
 - 🍵 Interests: Fitness, Science, Math, RPGs, and Coding. <br>
 
